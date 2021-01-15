@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/learn-node-js-by-building-6-projects/9781788293631)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1788293630).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Learn Node.js by Building 6 Projects
 This is the code repository for [Learn Node.js by Building 6 Projects](https://www.packtpub.com/web-development/learn-nodejs-building-6-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788293631), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 ##Instructions and Navigations
