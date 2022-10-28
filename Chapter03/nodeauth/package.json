@@ -23,6 +23,7 @@
     "passport": "*",
     "passport-http": "*",
     "passport-local": "*",
+    "pug": "^3.0.2",
     "serve-favicon": "~2.3.0"
   }
 }
